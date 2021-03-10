@@ -1,0 +1,7 @@
+<root>
+    <item name='android.view.View int getId()'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val val="&quot; &quot;" />
+        </annotation>
+    </item>
+</root>

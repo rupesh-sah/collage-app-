@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "773701152789",
+    "project_id": "my-cl-88013",
+    "storage_bucket": "my-cl-88013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773701152789:android:70ae886dcc49ffa6f99e1c",
+        "android_client_info": {
+          "package_name": "com.rupesh.school"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773701152789-bd731r91afrb0q4kers96tc7to0u4lg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYcb-l7MfhHqEzO9KBV0lBnBp3_u5AD0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773701152789-bd731r91afrb0q4kers96tc7to0u4lg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
